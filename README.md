@@ -5,7 +5,7 @@
 <br>
 
 - 🌱 Research Interests: High-performance software systems and Blockchain Technology.
-- 🤔 I'm interested in using flutter to build cool mobile applications. I'm currently working on ... that tracks my Crypto currency portfolio in real time across multiple crypto wallets.
+- 🤔 I'm interested in using flutter to build cool mobile applications. I'm currently working on [Crypto Tracker](https://github.com/WinstonMoh/Crypto-Tracker), that tracks your Cryptocurrency portfolio in real time by aggregating data across multiple crypto wallets.
 
 **Languages and Tools:**  
 
@@ -15,9 +15,3 @@
 <code><img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>
 <code><img height="20" src="https://kubernetes.io/images/favicon.png"></code>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QasimWani&show_icons=true&theme=radical&count_private=truel" alt="Qasim's github stats" />
-</a>
--->
