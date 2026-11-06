@@ -1,6 +1,4 @@
-### Hi there, I'm [Winston](https://www.linkedin.com/in/winstonmoh)! 👋
-
-<p>Northeastern CS '21</p>
+<p>Currently: <a href="https://microsoft.com">Microsoft</a>  </p>
 <p>Previously: <a href="https://aws.amazon.com">AWS</a> (Summer 2020), <a href="https://www.datadoghq.com">Datadog</a> (Spring 2020) </p>
 <br>
 
